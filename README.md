@@ -1,6 +1,6 @@
 # sidemenu
 
-A new Flutter project.
+アプリ内にサイドメニューを追加するサンプルコード
 
 ## Getting Started
 
